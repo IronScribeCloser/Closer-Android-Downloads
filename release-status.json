@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "state": "live",
+  "version": "0.2.0",
+  "versionCode": 1005,
+  "commit": "5a60d6204f791d1437d9478cdcfb52a6d15e5cbb",
+  "sourceBranch": "development/closer-visual-framework-auth",
+  "sha256": "46f37c4801a3bb7116334479b525ac91e6409d941eb77bd4e1364d7e993464a6",
+  "publishedAt": "2026-11-10T02:04:45Z",
+  "apkUrl": "https://github.com/IronScribeCloser/Closer-Android-Downloads/releases/download/v0.2.0/closer-demo.apk",
+  "live": {
+    "schema": 1,
+    "approved": true,
+    "status": "live",
+    "applicationId": "com.ironscribecloser.closer.demo",
+    "version": "0.2.0",
+    "versionCode": 1005,
+    "certificateSha256": "e31b45b636baf55c98ab8d9c3333427338477a2298bcdf408690522d0139fdab",
+    "sha256": "46f37c4801a3bb7116334479b525ac91e6409d941eb77bd4e1364d7e993464a6",
+    "bytes": 77326386,
+    "apkUrl": "https://github.com/IronScribeCloser/Closer-Android-Downloads/releases/download/v0.2.0/closer-demo.apk",
+    "notes": "Existing approved offline adult demonstration with fictional profiles and 32 activities. No live accounts, messaging or location discovery. Device testing remains ongoing.",
+    "publishedAt": "2026-11-10T02:04:45Z",
+    "commit": "5a60d6204f791d1437d9478cdcfb52a6d15e5cbb",
+    "sourceBranch": "development/closer-visual-framework-auth"
+  },
+  "pending": {
+    "state": "pending",
+    "reason": "The first update-enabled public release awaits exact APK approval. Feature branches are not public releases."
+  },
+  "updatedAt": "2026-11-16T22:10:49.557Z"
+}
