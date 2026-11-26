@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "applicationId": "com.ironscribecloser.closer.demo",
+  "lastAllocatedVersionCode": 1054,
+  "allocations": [
+    {
+      "versionCode": 1054,
+      "commit": "2105515c2eb743aa2e84389f6a4b5183b6146dfc",
+      "mode": "play",
+      "reservedAt": "2026-11-26T21:22:34.867Z"
+    }
+  ]
+}
